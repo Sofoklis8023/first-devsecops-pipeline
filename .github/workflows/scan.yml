@@ -8,7 +8,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'sofoklis000/first-devsecops-pipeline:latest'
+          default: 'sofoklis000/first-devsecops-pipeline:v1'
 
 # env:
 #   REGISTRY: ghcr.io
